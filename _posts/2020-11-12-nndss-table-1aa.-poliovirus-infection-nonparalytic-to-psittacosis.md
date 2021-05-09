@@ -1,7 +1,7 @@
 ---
 title: 'NNDSS - TABLE 1AA.  Poliovirus infection, nonparalytic to Psittacosis'
-created: '2020-11-12T12:13:50.549963'
-modified: '2021-04-21T19:19:59.940824'
+created: '2020-11-12T12:15:49.149170'
+modified: '2021-04-21T19:33:28.950511'
 state: active
 type: dataset
 tags:
@@ -14,8 +14,8 @@ tags:
   - Psittacosis
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/axgy-8qey/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/axgy-8qey/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/q9sm-44y3/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/q9sm-44y3/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
