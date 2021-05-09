@@ -1,7 +1,7 @@
 ---
 title: NNDSS - TABLE 1U. Legionellosis to Listeriosis
-created: '2020-11-12T12:12:48.711839'
-modified: '2021-04-21T19:13:05.224539'
+created: '2020-11-12T12:14:24.784741'
+modified: '2021-04-21T19:23:56.158120'
 state: active
 type: dataset
 tags:
@@ -14,8 +14,8 @@ tags:
   - Nndss
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/484g-ihkb/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/484g-ihkb/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/ehf4-c7tw/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/ehf4-c7tw/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
