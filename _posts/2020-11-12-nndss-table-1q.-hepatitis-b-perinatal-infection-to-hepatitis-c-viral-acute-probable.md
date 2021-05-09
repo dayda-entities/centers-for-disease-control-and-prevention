@@ -2,8 +2,8 @@
 title: >-
   NNDSS - TABLE 1Q. Hepatitis B, perinatal infection to Hepatitis C (viral,
   acute), Probable
-created: '2020-11-12T12:13:32.945046'
-modified: '2021-04-21T19:17:35.712276'
+created: '2020-11-12T12:14:36.942278'
+modified: '2021-04-21T19:25:16.788619'
 state: active
 type: dataset
 tags:
@@ -19,8 +19,8 @@ tags:
   - Probable
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/8ezu-y38w/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/8ezu-y38w/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/fyv2-xffj/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/fyv2-xffj/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
