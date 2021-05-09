@@ -1,7 +1,7 @@
 ---
 title: 'NNDSS - TABLE 1LL. Vibriosis, Confirmed to Vibriosis, Probable'
-created: '2020-11-12T12:14:53.907517'
-modified: '2021-04-21T19:27:25.477256'
+created: '2020-11-12T12:16:33.025037'
+modified: '2021-04-21T19:40:11.630796'
 state: active
 type: dataset
 tags:
@@ -13,8 +13,8 @@ tags:
   - Vibriosis Probable
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/i4eq-dgfc/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/i4eq-dgfc/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/u92k-ms37/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/u92k-ms37/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
