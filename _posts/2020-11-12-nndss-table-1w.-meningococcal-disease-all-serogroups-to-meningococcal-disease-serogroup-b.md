@@ -2,8 +2,8 @@
 title: >-
   NNDSS - TABLE 1W. Meningococcal disease, All serogroups to Meningococcal
   disease, Serogroup B
-created: '2020-11-12T12:15:44.985224'
-modified: '2021-04-21T19:33:05.918617'
+created: '2020-11-12T12:13:58.627492'
+modified: '2021-04-21T19:20:51.870416'
 state: active
 type: dataset
 tags:
@@ -17,8 +17,8 @@ tags:
   - Serogroups Acwy
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/puin-6ss7/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/puin-6ss7/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/bkwy-pyv3/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/bkwy-pyv3/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
