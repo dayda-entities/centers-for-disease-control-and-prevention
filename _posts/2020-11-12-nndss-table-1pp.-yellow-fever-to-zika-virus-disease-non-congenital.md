@@ -1,7 +1,7 @@
 ---
 title: 'NNDSS - TABLE 1PP. Yellow fever to Zika virus disease, non-congenital'
-created: '2020-11-12T12:14:41.113108'
-modified: '2021-04-21T19:25:42.809620'
+created: '2020-11-12T12:15:59.066039'
+modified: '2021-04-21T22:06:43.943998'
 state: active
 type: dataset
 tags:
@@ -14,8 +14,8 @@ tags:
   - Yellow Fever
   - Zika Virus Disease
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/gp24-kfxi/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/gp24-kfxi/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/qz67-9a9h/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/qz67-9a9h/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
