@@ -2,8 +2,8 @@
 title: >-
   NNDSS - TABLE 1EE. Salmonella Paratyphi infection to Salmonellosis (excluding
   Salmonella Typhi infection and Salmonella Paratyphi infection)
-created: '2020-11-12T12:14:50.487963'
-modified: '2021-04-21T19:26:56.097882'
+created: '2020-11-12T12:14:35.688185'
+modified: '2021-04-21T19:25:10.043442'
 state: active
 type: dataset
 tags:
@@ -18,8 +18,8 @@ tags:
     Infection
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/hs59-amfp/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/hs59-amfp/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/fuzh-wm4c/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/fuzh-wm4c/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
