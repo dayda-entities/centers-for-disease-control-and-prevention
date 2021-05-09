@@ -2,8 +2,8 @@
 title: >-
   NNDSS - TABLE 1KK. Vancomycin-resistant Staphylococcus aureus to Varicella
   morbidity
-created: '2020-11-12T12:14:17.477505'
-modified: '2021-04-21T19:23:15.437319'
+created: '2020-11-12T12:17:12.098631'
+modified: '2021-04-21T19:44:08.006300'
 state: active
 type: dataset
 tags:
@@ -15,8 +15,8 @@ tags:
   - Varicella Morbidity
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/dy4n-fbwg/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/dy4n-fbwg/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/ybum-psnc/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/ybum-psnc/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
