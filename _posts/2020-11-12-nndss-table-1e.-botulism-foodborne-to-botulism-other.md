@@ -1,7 +1,7 @@
 ---
 title: 'NNDSS - TABLE 1E. Botulism, Foodborne to Botulism, Other'
-created: '2020-11-12T12:12:54.868636'
-modified: '2021-04-21T19:13:31.133927'
+created: '2020-11-12T12:15:57.563433'
+modified: '2021-04-21T19:34:13.383220'
 state: active
 type: dataset
 tags:
@@ -15,8 +15,8 @@ tags:
   - Other Wound And Unspecified
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/4t6w-ibvk/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/4t6w-ibvk/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/qwf3-87ny/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/qwf3-87ny/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
