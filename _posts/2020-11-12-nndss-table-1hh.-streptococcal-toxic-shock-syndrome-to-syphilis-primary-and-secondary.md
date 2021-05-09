@@ -2,8 +2,8 @@
 title: >-
   NNDSS - TABLE 1HH. Streptococcal toxic shock syndrome to Syphilis, Primary and
   Secondary
-created: '2020-11-12T12:13:54.339652'
-modified: '2021-04-21T19:20:25.723231'
+created: '2020-11-12T12:13:49.200692'
+modified: '2021-04-21T19:19:51.094907'
 state: active
 type: dataset
 tags:
@@ -17,8 +17,8 @@ tags:
   - Syphilis
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/b6np-zdqj/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/b6np-zdqj/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/ap9g-4wiq/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/ap9g-4wiq/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
