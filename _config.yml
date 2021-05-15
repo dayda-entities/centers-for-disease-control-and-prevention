@@ -1,0 +1,21 @@
+title: Dayda
+name: Centers for Disease Control and Prevention
+description: >-
+  This is a catalog of datasets organized and made more accessible from the
+  Centers for Disease Control and Prevention (CDC), providing simple dowloadable
+  CSV and JSON files, as well as Postman Collections you can use as part of
+  workflows and other automation.
+about: This is all about the entity.
+source_url: 'http://example.com'
+source_contact_type: general
+source_phone: +1 555-555-5555
+source_email: info@example.com
+source_catalog: data.gov
+profile_pic: >-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/US_CDC_logo.svg/440px-US_CDC_logo.svg.png
+favicon: /assets/img/favicon.png
+url: 'http://centers-for-disease-control-and-prevention.dayda.org'
+encoding: utf-8
+paginate: 25
+paginate_path: '/page:num/'
+markdown: kramdown
