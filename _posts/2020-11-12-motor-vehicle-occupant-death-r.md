@@ -1,17 +1,15 @@
 ---
-title: >-
-  Motor Vehicle Occupant Death Rate, by Age and Gender, 2012 & 2014, Region 8 -
-  Denver
-created: '2020-11-12T12:13:34.113678'
-modified: '2020-11-12T12:13:34.113689'
+title: 'Motor Vehicle Occupant Death Rate, by Age and Gender, 2012 & 2014, All States'
+created: '2020-11-12T12:16:10.353500'
+modified: '2021-04-21T19:38:03.114655'
 state: active
 type: dataset
 tags:
-  - Cdc
-  - Centers For Disease Control And Prevention
+  - Death Rate
+  - Motor Vehicle
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/8i5t-42wz/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/8i5t-42wz/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/rqg5-mkef/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/rqg5-mkef/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
