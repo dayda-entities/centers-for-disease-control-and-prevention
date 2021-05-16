@@ -1,17 +1,17 @@
 ---
 title: >-
   Percentage of Drivers and Front Seat Passengers Wearing Seat Belts, 2012 &
-  2014, Region 3 - Philadelphia
-created: '2020-11-12T12:14:45.278361'
-modified: '2021-04-21T19:26:06.488750'
+  2014, Region 7 - Kansas City
+created: '2020-11-12T12:17:10.246091'
+modified: '2021-04-17T00:24:21.013303'
 state: active
 type: dataset
 tags:
   - Cdc
   - Centers For Disease Control And Prevention
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/hauf-e9a4/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/hauf-e9a4/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/y8pa-p62q/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/y8pa-p62q/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
