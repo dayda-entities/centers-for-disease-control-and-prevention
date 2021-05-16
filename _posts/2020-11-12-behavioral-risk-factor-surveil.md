@@ -1,22 +1,22 @@
 ---
 title: >-
-  Behavioral Risk Factor Surveillance System (BRFSS) Prevalence Data (2011 to
-  present)
-created: '2020-11-12T12:14:15.150962'
-modified: '2021-04-21T19:23:03.201503'
+  Behavioral Risk Factor Surveillance System (BRFSS) -  National Cardiovascular
+  Disease Surveillance Data
+created: '2020-11-12T12:14:57.677899'
+modified: '2021-04-21T19:27:51.693573'
 state: active
 type: dataset
 tags:
-  - __
-  - Behavioral
   - Brfss
-  - Factor
-  - Risk
-  - Survey
+  - Cardiovascular Disease
+  - Coronary Heart Disease
+  - Hypertension
+  - Risk Factors
+  - Stroke
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/dttw-5yxu/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/dttw-5yxu/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/ikwk-8git/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/ikwk-8git/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-2011 to present. BRFSS combined land line and cell phone prevalence data. BRFSS is a continuous, state-based surveillance system that collects information about modifiable risk factors for chronic diseases and other leading causes of death. Data will be updated annually as it becomes available. Detailed information on sampling methodology and quality assurance can be found on the BRFSS website (http://www.cdc.gov/brfss). Methodology: http://www.cdc.gov/brfss/factsheets/pdf/DBS_BRFSS_survey.pdf Glossary: https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-H/iuq5-y9ct/data
+BRFSS is a continuous, state-based surveillance system that collects information about modifiable risk factors for chronic diseases and other leading causes of death.  Indicators from this data source have been computed by personnel in CDC's Division for Heart Disease and Stroke Prevention (DHDSP). This is one of the datasets provided by the National Cardiovascular Disease Surveillance System. The system is designed to integrate multiple indicators from many data sources to provide a comprehensive picture of the public health burden of CVDs and associated risk factors in the United States. The data are organized by location (national, regional, state, and selected sites) and indicator, and they include CVDs (e.g., heart failure) and risk factors (e.g., hypertension). The data can be plotted as trends and stratified by age group, sex, and race/ethnicity.
