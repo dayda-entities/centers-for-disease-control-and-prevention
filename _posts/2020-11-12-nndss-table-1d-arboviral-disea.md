@@ -1,7 +1,7 @@
 ---
 title: 'NNDSS - TABLE 1D. Arboviral diseases, West Nile virus to Babesiosis'
-created: '2020-11-12T12:14:30.731753'
-modified: '2021-04-21T19:24:37.489114'
+created: '2020-11-12T12:16:01.338049'
+modified: '2021-04-21T19:37:00.536403'
 state: active
 type: dataset
 tags:
@@ -14,8 +14,8 @@ tags:
   - West Nile Virus Disease
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/fc5f-ixvg/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/fc5f-ixvg/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/r5u4-fzxi/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/r5u4-fzxi/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
