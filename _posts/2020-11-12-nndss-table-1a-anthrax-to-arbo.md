@@ -1,9 +1,9 @@
 ---
 title: >-
-  NNDSS - TABLE 1A.  Anthrax to Arboviral diseases, Eastern equine encephalitis
+  NNDSS - TABLE 1A. Anthrax to Arboviral diseases, Eastern equine encephalitis
   virus disease
-created: '2020-11-12T12:14:06.922374'
-modified: '2021-04-21T19:22:04.377318'
+created: '2020-11-12T12:16:28.184922'
+modified: '2021-04-21T19:39:40.009572'
 state: active
 type: dataset
 tags:
@@ -18,8 +18,8 @@ tags:
   - Nndss
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/cz39-ahbn/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/cz39-ahbn/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/ttjk-6u2v/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/ttjk-6u2v/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
