@@ -1,20 +1,26 @@
 ---
-title: 'Nutrition, Physical Activity, and Obesity - Policy and Environmental Data'
-created: '2020-11-12T12:15:08.981286'
-modified: '2021-04-21T19:29:07.817301'
+title: >-
+  Nutrition, Physical Activity, and Obesity - Youth Risk Behavior Surveillance
+  System
+created: '2020-11-12T12:16:41.000293'
+modified: '2021-04-21T19:40:52.151558'
 state: active
 type: dataset
 tags:
-  - Breastfeeding
+  - Adolescents
   - Dnpao
   - Fruit
-  - Nutrition
+  - Obesity
+  - Overweight
   - Physical Activity
-  - Vegetable
+  - Soda
+  - Tv
+  - Vegetables
+  - Yrbss
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/k8w5-7ju6/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/k8w5-7ju6/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/vba9-s8jp/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/vba9-s8jp/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This dataset includes data on policy and environmental supports for physical activity, diet, and breastfeeding. This data is used for DNPAO's Data, Trends, and Maps database, which provides national and state specific data on obesity, nutrition, physical activity, and breastfeeding.
+This dataset includes data on adolescent's diet, physical activity, and weight status from Youth Risk Behavior Surveillance System (YRBSS). This data is used for DNPAO's Data, Trends, and Maps database, which provides national and state specific data on obesity, nutrition, physical activity, and breastfeeding. For more information about YRBSS visit https://www.cdc.gov/healthyyouth/data/yrbs/index.htm.
