@@ -1,7 +1,7 @@
 ---
-title: CDC STATE System E-Cigarette Legislation - Smokefree Campus
-created: '2020-11-12T12:14:59.060916'
-modified: '2021-04-21T19:28:04.270817'
+title: CDC STATE System E-Cigarette Legislation - Youth Access
+created: '2020-11-12T12:13:37.912076'
+modified: '2021-04-21T19:18:02.105882'
 state: active
 type: dataset
 tags:
@@ -9,12 +9,12 @@ tags:
   - Legislation
   - Osh
   - Policy
-  - Smokefree Campus
   - State System
+  - Youth Access
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/itia-u6fu/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/itia-u6fu/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/8zea-kwnt/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/8zea-kwnt/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-1995-2021. Centers for Disease Control and Prevention (CDC). State Tobacco Activities Tracking and Evaluation (STATE) System.  E-Cigarette Legislation—Smokefree Campus. The STATE System houses current and historical state-level legislative data on tobacco use prevention and control policies. Data are reported on a quarterly basis. Data include state smokefree indoor air laws for smokefree campuses in private and public colleges and schools (K-12).
+1995-2021. Centers for Disease Control and Prevention (CDC). State Tobacco Activities Tracking and Evaluation (STATE) System. E-Cigarette Legislation—Youth Access. The STATE System houses current and historical state-level legislative data on tobacco use prevention and control policies.  Data are reported on a quarterly basis. Data include information related to restrictions, enforcement and penalties associated with the sale of e-cigarettes to youth through retail sales and vending machines.
