@@ -1,17 +1,17 @@
 ---
 title: >-
-  Motor Vehicle Occupant Death Rate, by Age and Gender, 2012 & 2014, HHS Region
-  1 - Boston
-created: '2020-11-12T12:13:49.107948'
-modified: '2021-04-21T19:19:47.448316'
+  Motor Vehicle Occupant Death Rate, by Age and Gender, 2012 & 2014, Region 2 -
+  New York
+created: '2020-11-12T12:14:34.117751'
+modified: '2021-04-21T19:24:51.485839'
 state: active
 type: dataset
 tags:
   - Cdc
   - Centers For Disease Control And Prevention
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/an65-3p9b/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/an65-3p9b/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/fj6s-ssz6/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/fj6s-ssz6/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
