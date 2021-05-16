@@ -1,23 +1,24 @@
 ---
-title: NCHS - Drug Poisoning Mortality by County United States
-created: '2020-11-12T12:15:39.809987'
-modified: '2021-04-21T19:32:31.944484'
+title: NCHS - Drug Poisoning Mortality by State United States
+created: '2020-11-12T12:15:04.770617'
+modified: '2021-04-21T19:28:43.813596'
 state: active
 type: dataset
 tags:
-  - County
   - Deaths
   - Drug Poisoning
   - Mortality
+  - National
   - Nchs
+  - State
   - United States
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/pbkm-d27e/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/pbkm-d27e/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/jx6g-fdh6/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/jx6g-fdh6/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This dataset describes drug poisoning deaths at the county level by selected demographic characteristics and includes age-adjusted death rates for drug poisoning from 1999 to 2015.
+This dataset describes drug poisoning deaths at the U.S. and state level by selected demographic characteristics, and includes age-adjusted death rates for drug poisoning from 1999 to 2015.
 
 Deaths are classified using the International Classification of Diseases, Tenth Revision (ICD–10). Drug-poisoning deaths are defined as having ICD–10 underlying cause-of-death codes X40–X44 (unintentional), X60–X64 (suicide), X85 (homicide), or Y10–Y14 (undetermined intent).
 
