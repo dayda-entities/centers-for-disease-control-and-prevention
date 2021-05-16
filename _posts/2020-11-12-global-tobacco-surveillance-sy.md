@@ -1,21 +1,19 @@
 ---
-title: >-
-  Global Tobacco Surveillance System (GTSS) - Global School Personnel Survey
-  (GSPS)
-created: '2020-11-12T12:13:04.270685'
-modified: '2021-04-21T19:14:33.364396'
+title: Global Tobacco Surveillance System (GTSS) - Global Adult Tobacco Survey (GATS)
+created: '2020-11-12T12:12:56.135015'
+modified: '2021-04-16T23:59:30.688262'
 state: active
 type: dataset
 tags:
-  - Gsps
+  - Adult
+  - Gats
   - Gtss
   - Osh
-  - School Personnel
   - Tobacco
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/5hns-mwci/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/5hns-mwci/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/4xf6-nrwk/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/4xf6-nrwk/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-2001-2011. The GSPS was initiated in 2000 to collect information on tobacco use, knowledge and attitudes of school personnel toward tobacco, existence and effectiveness of tobacco control policies in schools, and training and materials available for implementing tobacco prevention and control interventions.
+2008-2017. Centers for Disease Control and Prevention (CDC).   Office on Smoking and Health (OSH) – Global Tobacco Surveillance System (GTSS) - Global Adult Tobacco Survey (GATS).    The Global Adult Tobacco Survey (GATS) is the global standard to systematically monitor adult tobacco use and track key tobacco control indicators. GATS is a nationally representative household survey of adults 15 years of age or older, using a standard protocol. It is intended to generate comparable data within and across countries. GATS enhances countries' capacity to design, implement and evaluate tobacco control interventions.
