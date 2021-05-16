@@ -1,9 +1,9 @@
 ---
 title: >-
-  National Artesunate for Severe Malaria Program Case Report Data- April to
-  December 2019
-created: '2020-11-12T12:14:56.909412'
-modified: '2021-04-21T19:27:48.027039'
+  National Artesunate for Severe Malaria Program Artesunate Dosing Data- April
+  to December 2019
+created: '2020-11-12T12:15:52.016287'
+modified: '2021-04-21T19:33:33.806834'
 state: active
 type: dataset
 tags:
@@ -11,17 +11,20 @@ tags:
   - Division Of Parasitic Diseases And Malaria
   - Malaria
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/igaz-icki/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/igaz-icki/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/qan4-gt4k/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/qan4-gt4k/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
 This dataset includes deidentified data on patients receiving artesunate through the National Artesunate for Severe Malaria Program from April- December 2019. 
 
-This dataset contains the data from the case report form only.
-Please see the links below for the other datasets and see the attached document 'Guide to NSAMP Datasets':
-Data on Artesunate Dosing- https://data.cdc.gov/dataset/National-Artesunate-for-Severe-Malaria-Program-Art/qan4-gt4k
+This dataset contains artesunate dosing data only.
+Please see the links below for the other datasets and the attached word document, 'Guide to NASMP Datasets':
+
+Data from Case Report- https://data.cdc.gov/Global-Health/National-Artesunate-for-Severe-Malaria-Program-Cas/igaz-icki
+
 Data on Follow-On Antimalarial Dosing- https://data.cdc.gov/Global-Health/National-Artesunate-for-Severe-Malaria-Program-Fol/g3k9-gyw7
+
 Data on Microscopy (Parasitemia values)- https://data.cdc.gov/Global-Health/National-Artesunate-for-Severe-Malaria-Program-Mic/v2k9-ctv4
 
 All data can be easily linked using the ParticipantID field, a unique ID number assigned to each participant.
