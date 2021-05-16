@@ -1,17 +1,17 @@
 ---
 title: >-
-  Impaired Driving Death Rate, by Age and Gender, 2012 & 2014, Region 2 - New
-  York
-created: '2020-11-12T12:13:59.049015'
-modified: '2021-04-21T19:20:52.016115'
+  Impaired Driving Death Rate, by Age and Gender, 2012 & 2014, Region 7 - Kansas
+  City
+created: '2020-11-12T12:14:21.125780'
+modified: '2021-03-29T21:20:38.229075'
 state: active
 type: dataset
 tags:
   - Cdc
   - Centers For Disease Control And Prevention
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/bptw-uw4i/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/bptw-uw4i/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/ea3z-m7eh/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/ea3z-m7eh/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
