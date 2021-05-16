@@ -1,21 +1,21 @@
 ---
-title: 'Daily Census Tract-Level Ozone Concentrations, 2011-2015'
-created: '2020-11-12T12:13:30.969881'
-modified: '2021-04-21T19:17:17.569834'
+title: 'Daily Census Tract-Level Ozone Concentrations, 2016'
+created: '2020-11-12T12:14:02.296001'
+modified: '2021-04-21T19:21:28.998616'
 state: active
 type: dataset
 tags:
-  - Air Pollution
+  - Air Quality
   - Asthma
   - Environmental Health
   - Ozone
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/847z-pxin/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/847z-pxin/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/cicv-w9dv/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/cicv-w9dv/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This dataset provides modeled predictions of ozone levels from the EPA's Downscaler model. Data are at the census tract level for 2001-2005. These data are used by the CDC's National Environmental Public Health Tracking Network to generate air quality measures. Census tract-level datasets contain estimates of the mean predicted concentration and associated standard error. Please refer to the metadata attachment for more information.
+This dataset provides modeled predictions of ozone levels from the EPA's Downscaler model. Data are at the census tract level for 2016. These data are used by the CDC's National Environmental Public Health Tracking Network to generate air quality measures. Census tract-level datasets contain estimates of the mean predicted concentration and associated standard error. Please refer to the metadata attachment for more information.
 
 Learn more about outdoor air quality on the Tracking Network's website: https://ephtracking.cdc.gov/showAirLanding.action.
 
