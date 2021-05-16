@@ -1,27 +1,27 @@
 ---
 title: >-
-  NNDSS - Table II. Ehrlichiosis and Anaplasmosis, Ehrlichia ewingii infection
-  to Undetermined
-created: '2020-11-12T12:14:05.852026'
-modified: '2021-04-21T19:21:52.219265'
+  NNDSS - Table II. Ehrlichiosis and Anaplasmosis, Anaplasma phagocytophilum
+  infection to Ehrlichia chaffeensis infection
+created: '2020-11-12T12:13:07.218379'
+modified: '2021-04-21T19:14:47.698452'
 state: active
 type: dataset
 tags:
   - '2018'
-  - Ehrlichia Ewingii Infection
+  - Anaplasma Phagocytophilum Infection
+  - Ehrlichia Chaffeensis Infection
   - Ehrlichiosis And Anaplasmosis
   - Nedss
   - Netss
   - Nndss
-  - Undetermined
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/cucp-zsht/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/cucp-zsht/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/5pe9-px25/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/5pe9-px25/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-NNDSS - Table II. Ehrlichiosis and Anaplasmosis, Ehrlichia ewingii infection to Undetermined - 2018. In this Table, provisional cases of selected notifiable diseases (≥1,000 cases reported during the preceding year), and selected low frequency diseases are displayed. The Table includes total number of cases reported in the United States, by region and by states or territory.
+NNDSS - Table II. Ehrlichiosis and Anaplasmosis, Anaplasma phagocytophilum infection to Ehrlichia chaffeensis infection - 2018. In this Table, provisional cases of selected notifiable diseases (≥1,000 cases reported during the preceding year), and selected low frequency diseases are displayed. The Table includes total number of cases reported in the United States, by region and by states or territory.
 
 Note:
 
