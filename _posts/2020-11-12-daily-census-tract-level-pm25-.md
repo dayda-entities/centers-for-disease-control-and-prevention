@@ -1,7 +1,7 @@
 ---
-title: 'Daily Census Tract-Level PM2.5 Concentrations, 2011-2014'
-created: '2020-11-12T12:14:31.181695'
-modified: '2021-04-21T19:24:38.455789'
+title: 'Daily Census Tract-Level PM2.5 Concentrations, 2006-2010'
+created: '2020-11-12T12:14:34.412084'
+modified: '2021-04-21T19:25:04.251533'
 state: active
 type: dataset
 tags:
@@ -11,12 +11,12 @@ tags:
   - Particulate Matter
   - Pm2 5
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/fcqm-xrf4/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/fcqm-xrf4/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/fpqb-s69d/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/fpqb-s69d/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This dataset provides modeled predictions of PM2.5 levels from the EPA's Downscaler model. Data are at the census tract level for 2011-2014. These data are used by the CDC's National Environmental Public Health Tracking Network to generate air quality measures. Census tract-level datasets contain estimates of the mean predicted concentration and associated standard error. Please refer to the metadata attachment for more information.
+This dataset provides modeled predictions of PM2.5 levels from the EPA's Downscaler model. Data are at the census tract level for 2006-2010. These data are used by the CDC's National Environmental Public Health Tracking Network to generate air quality measures. Census tract-level datasets contain estimates of the mean predicted concentration and associated standard error. Please refer to the metadata attachment for more information.
 
 Learn more about outdoor air quality on the Tracking Network's website: https://ephtracking.cdc.gov/showAirLanding.action.
 
