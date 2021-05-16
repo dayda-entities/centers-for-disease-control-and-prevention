@@ -1,31 +1,26 @@
 ---
-title: 'Provisional COVID-19 Death Counts by Sex, Age, and State'
-created: '2020-11-12T12:13:39.847156'
-modified: '2021-05-12T19:56:24.493951'
+title: Provisional COVID-19 Death Counts by County and Race
+created: '2020-11-12T12:15:09.372049'
+modified: '2021-05-12T19:56:40.019914'
 state: active
 type: dataset
 tags:
-  - Age
-  - Age Group
+  - All Causes
   - Coronavirus
+  - County
   - Covid 19
   - Deaths
-  - Influenza
-  - Monthly
+  - Hispanic Origin
   - Mortality
   - Nchs
   - Nvss
-  - Pneumonia
   - Provisional
-  - Puerto Rico
-  - Sex
-  - State
+  - Race
   - United States
-  - Yearly
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/9bhg-hcku/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/9bhg-hcku/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/k8wy-p9cg/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/k8wy-p9cg/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Deaths involving coronavirus disease 2019 (COVID-19), pneumonia, and influenza reported to NCHS by sex, age group, and state.
+County data on race and Hispanic origin is available for counties with more than 100 COVID-19 deaths.  Urban-rural classification is based on the 2013 National Center for Health Statistics Urban-Rural Classification Scheme for Counties (https://www.cdc.gov/nchs/data_access/urban_rural.htm).  Deaths are cumulative from the week ending January 4, 2020 to the most recent reporting week.
