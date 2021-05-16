@@ -1,23 +1,22 @@
 ---
 title: >-
   Behavioral Risk Factors Selected Metropolitan Area Risk Trends (SMART) MMSA
-  Age-adjusted Prevalence Data (2011 to Present)
-created: '2020-11-12T12:13:50.031513'
-modified: '2021-04-21T19:19:57.576151'
+  Prevalence Data (2011 to Present)
+created: '2020-11-12T12:15:00.826759'
+modified: '2021-04-21T19:28:17.369973'
 state: active
 type: dataset
 tags:
-  - Age Adjusted
   - Behavioral
   - Brfss
-  - Factor
+  - Mmsa
   - Risk
-  - Surveillance
+  - Smart
   - Survey
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/at7e-uhkc/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/at7e-uhkc/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/j32a-sa6u/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/j32a-sa6u/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-2011 to present. BRFSS SMART MMSA age-adjusted prevalence combined land line and cell phone data. The Selected Metropolitan Area Risk Trends (SMART) project uses the Behavioral Risk Factor Surveillance System (BRFSS) to analyze the data of selected metropolitan statistical areas (MMSAs) with 500 or more respondents. BRFSS data can be used to identify emerging health problems, establish and track health objectives, and develop and evaluate public health policies and programs. BRFSS is a continuous, state-based surveillance system that collects information about modifiable risk factors for chronic diseases and other leading causes of death. Data will be updated annually as it becomes available. Detailed information on sampling methodology and quality assurance can be found on the BRFSS website (http://www.cdc.gov/brfss). Methodology: http://www.cdc.gov/brfss/factsheets/pdf/DBS_BRFSS_survey.pdf Glossary: https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-H/iuq5-y9ct/data
+2011 to present. BRFSS SMART MMSA Prevalence combined land line and cell phone data. The Selected Metropolitan Area Risk Trends (SMART) project uses the Behavioral Risk Factor Surveillance System (BRFSS) to analyze the data of selected metropolitan statistical areas (MMSAs) with 500 or more respondents. BRFSS data can be used to identify emerging health problems, establish and track health objectives, and develop and evaluate public health policies and programs. BRFSS is a continuous, state-based surveillance system that collects information about modifiable risk factors for chronic diseases and other leading causes of death. Data will be updated annually as it becomes available. Detailed information on sampling methodology and quality assurance can be found on the BRFSS website (http://www.cdc.gov/brfss). Methodology: http://www.cdc.gov/brfss/factsheets/pdf/DBS_BRFSS_survey.pdf Glossary: https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-H/iuq5-y9ct/data
