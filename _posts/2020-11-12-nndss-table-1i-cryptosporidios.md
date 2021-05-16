@@ -1,7 +1,7 @@
 ---
 title: NNDSS - TABLE 1I. Cryptosporidiosis to Cyclosporiasis
-created: '2020-11-12T12:15:37.512721'
-modified: '2021-04-21T19:32:25.886365'
+created: '2020-11-12T12:15:12.002004'
+modified: '2021-04-21T19:29:32.601344'
 state: active
 type: dataset
 tags:
@@ -13,8 +13,8 @@ tags:
   - Nndss
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/p8ia-4jqj/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/p8ia-4jqj/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/khjf-tq2k/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/khjf-tq2k/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
