@@ -1,20 +1,21 @@
 ---
-title: CDC STATE System Tobacco Legislation - Fire Safety
-created: '2020-11-12T12:14:58.321679'
-modified: '2021-04-21T19:28:00.927191'
+title: CDC STATE System Tobacco Legislation - Tax
+created: '2020-11-12T12:12:37.159961'
+modified: '2021-04-21T19:11:44.967720'
 state: active
 type: dataset
 tags:
-  - Fire Safety
   - Legislation
   - Osh
   - Policy
   - State System
+  - Tax
   - Tobacco
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/isz8-idbx/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/isz8-idbx/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/2dwv-vfam/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/2dwv-vfam/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-1995-2021. Centers for Disease Control and Prevention (CDC). State Tobacco Activities Tracking and Evaluation (STATE) System. Legislation – Fire-Safety. The STATE System houses current and historical state-level legislative data on tobacco use prevention and control policies. Data are reported on a quarterly basis. Data include fire-safe cigarette restrictions, enforcement, and penalties.
+CDC STATE System Tobacco Legislation - Tax  Legislation 
+1995-2021. Centers for Disease Control and Prevention (CDC). State Tobacco Activities Tracking and Evaluation (STATE) System. Legislation-Tax. The STATE System houses current and historical state-level legislative data on tobacco use prevention and control policies. Data are reported on a quarterly basis. Data include state taxes on combustible (cigarettes, cigars, little cigars, pipe tobacco, and roll-your-own tobacco) tobacco products, non-combustible (snus, moist snuff, dry snuff, chewing tobacco) tobacco products, and tax stamps.
