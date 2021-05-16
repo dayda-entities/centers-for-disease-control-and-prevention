@@ -1,26 +1,29 @@
 ---
-title: Provisional COVID-19 Death Counts by County and Race
-created: '2020-11-12T12:15:09.372049'
-modified: '2021-05-12T19:56:40.019914'
+title: Provisional COVID-19 Death Counts by Place of Death and State
+created: '2020-11-12T12:16:34.802087'
+modified: '2021-05-12T19:57:09.595420'
 state: active
 type: dataset
 tags:
-  - All Causes
   - Coronavirus
-  - County
   - Covid 19
   - Deaths
-  - Hispanic Origin
+  - Influenza
+  - Monthly
   - Mortality
   - Nchs
   - Nvss
+  - Place Of Death
+  - Pneumonia
   - Provisional
-  - Race
+  - Puerto Rico
+  - State
   - United States
+  - Yearly
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/k8wy-p9cg/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/k8wy-p9cg/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/uggs-hy5q/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/uggs-hy5q/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-County data on race and Hispanic origin is available for counties with more than 100 COVID-19 deaths.  Urban-rural classification is based on the 2013 National Center for Health Statistics Urban-Rural Classification Scheme for Counties (https://www.cdc.gov/nchs/data_access/urban_rural.htm).  Deaths are cumulative from the week ending January 4, 2020 to the most recent reporting week.
+Deaths involving coronavirus disease 2019 (COVID-19), pneumonia and influenza reported to NCHS by place of death and state, United States.
