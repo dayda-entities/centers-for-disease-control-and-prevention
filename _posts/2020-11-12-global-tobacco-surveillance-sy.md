@@ -1,21 +1,21 @@
 ---
 title: >-
-  Global Tobacco Surveillance System (GTSS) - Global Health Professions Student
-  Survey (GHPSS)
-created: '2020-11-12T12:16:58.341042'
-modified: '2021-04-21T19:42:49.840770'
+  Global Tobacco Surveillance System (GTSS) - Global School Personnel Survey
+  (GSPS)
+created: '2020-11-12T12:13:04.270685'
+modified: '2021-04-21T19:14:33.364396'
 state: active
 type: dataset
 tags:
-  - Ghpss
+  - Gsps
   - Gtss
   - Osh
-  - Students
+  - School Personnel
   - Tobacco
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/x6ag-8y7r/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/x6ag-8y7r/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/5hns-mwci/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/5hns-mwci/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-2005-2011. The World Health Organization, CDC, and the Canadian Public Health Association, developed the GHPSS to collect data on tobacco use and cessation counseling among health professional students in all WHO member states. GHPSS is a standardized school-based survey of third-year students pursuing advanced degrees in dentistry, medicine, nursing, or pharmacy. It is conducted in schools during regular class sessions. GHPSS follows an anonymous, self-administered format for data collection. GHPSS uses a core questionnaire on demographics, prevalence of cigarette smoking and other tobacco use, knowledge and attitudes about tobacco use, exposure to secondhand smoke, desire for smoking cessation, and training received regarding patient counseling on smoking cessation techniques. Questionnaires are translated into local languages as needed. GHPSS has a standardized methodology for selecting participating schools and classes and uniform data processing procedures.
+2001-2011. The GSPS was initiated in 2000 to collect information on tobacco use, knowledge and attitudes of school personnel toward tobacco, existence and effectiveness of tobacco control policies in schools, and training and materials available for implementing tobacco prevention and control interventions.
