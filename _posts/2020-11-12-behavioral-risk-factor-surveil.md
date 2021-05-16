@@ -1,28 +1,23 @@
 ---
-title: >-
-  Behavioral Risk Factor Surveillance System (BRFSS) Age-Adjusted Prevalence
-  Data (2011 to present)
-created: '2020-11-12T12:14:07.102250'
-modified: '2021-04-21T19:22:09.692237'
+title: Behavioral Risk Factor Surveillance System (BRFSS) Historical Questions
+created: '2020-11-12T12:14:59.508499'
+modified: '2021-04-21T19:28:07.116199'
 state: active
 type: dataset
 tags:
-  - Age Adjusted
   - Behavioral
   - Brfss
   - Factor
+  - Questions
   - Risk
   - Surveillance
   - Survey
+  - System
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/d2rk-yvas/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/d2rk-yvas/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/iuq5-y9ct/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/iuq5-y9ct/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-2011 to present. BRFSS combined land line and cell phone age-adjusted prevalence data. The BRFSS is a continuous, state-based surveillance system that collects information about modifiable risk factors for chronic diseases and other leading causes of death. 
-Data will be updated annually as it becomes available.
-
-Detailed information on sampling methodology and quality assurance can be found on the BRFSS website (http://www.cdc.gov/brfss). 
-Methodology: http://www.cdc.gov/brfss/factsheets/pdf/DBS_BRFSS_survey.pdf 
-Glossary: https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-H/iuq5-y9ct/data
+1984-2018.  Centers for Disease Control and Prevention (CDC). BRFSS Survey Data.  The BRFSS is a continuous, state-based surveillance system that collects information about modifiable risk factors for chronic diseases and other leading causes of death.
+Detailed information on sampling methodology and quality assurance can be found on the BRFSS website (http://www.cdc.gov/brfss).
