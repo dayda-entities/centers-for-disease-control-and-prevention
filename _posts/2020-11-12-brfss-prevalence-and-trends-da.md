@@ -1,18 +1,19 @@
 ---
 title: >-
-  BRFSS Prevalence And Trends Data Tobacco Use - Adults Who Are Current Smokers
-  for 1995-2010
-created: '2020-11-12T12:15:01.599975'
-modified: '2021-04-13T18:22:03.461029'
+  BRFSS Prevalence and Trends Data Tobacco Use - Four Level Smoking Data for
+  1995-2010
+created: '2020-11-12T12:13:37.621473'
+modified: '2021-04-21T19:17:54.803643'
 state: active
 type: dataset
 tags:
-  - Adults
   - Brfss
   - Current Smokers
+  - Former Smoker
+  - Non Smoker
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/j8jk-5ztv/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/j8jk-5ztv/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/8zak-ewtm/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/8zak-ewtm/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
