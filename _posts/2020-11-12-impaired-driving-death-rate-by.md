@@ -1,17 +1,17 @@
 ---
 title: >-
-  Impaired Driving Death Rate, by Age and Gender, 2012 & 2014, Region 10 -
-  Seattle
-created: '2020-11-12T12:17:00.290304'
-modified: '2021-04-21T19:43:02.601080'
+  Impaired Driving Death Rate, by Age and Gender, 2012 & 2014, Region 4 -
+  Atlanta
+created: '2020-11-12T12:12:34.690968'
+modified: '2021-04-21T19:11:30.150083'
 state: active
 type: dataset
 tags:
   - Cdc
   - Centers For Disease Control And Prevention
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/x9gq-59r3/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/x9gq-59r3/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/28km-nz6e/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/28km-nz6e/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
