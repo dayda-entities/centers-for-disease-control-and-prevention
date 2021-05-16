@@ -1,7 +1,7 @@
 ---
 title: 'NNDSS - TABLE 1DD. Rubella to Rubella, congenital syndrome'
-created: '2020-11-12T12:14:51.199078'
-modified: '2021-04-21T19:26:58.827567'
+created: '2020-11-12T12:12:37.865024'
+modified: '2021-04-21T19:11:46.193800'
 state: active
 type: dataset
 tags:
@@ -13,8 +13,8 @@ tags:
   - Rubella Congenital Syndrome
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/ht29-hwxw/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/ht29-hwxw/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/2khz-k7sv/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/2khz-k7sv/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
